@@ -33,4 +33,3 @@ def square_root(num)
 end
 
 square_root(81)
-
